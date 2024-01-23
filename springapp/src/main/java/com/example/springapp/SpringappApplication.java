@@ -18,6 +18,7 @@ public class SpringappApplication {
     int diff=obj.sub();
     System.out.println(sum);
     System.out.println(diff);
+    System.out.println("save ");
 		
 	}
 
