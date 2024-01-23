@@ -19,6 +19,7 @@ public class SpringappApplication {
     System.out.println(sum);
     System.out.println(diff);
     System.out.println("save ");
+    System.out.println("submit project");
 		
 	}
 
